@@ -1,4 +1,4 @@
-# Welcome to Scoring Engine documentation #
+# Welcome to Event Engine documentation #
 
 #### Contents: ####
 
